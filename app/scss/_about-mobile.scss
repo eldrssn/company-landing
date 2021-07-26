@@ -10,3 +10,19 @@
     font-size: 14px;
   }
 }
+
+@media (max-width: 548px) {
+  .about__section {
+    height: auto;
+  }
+
+  .map {
+    height: 300px;
+  }
+  
+  .map__contacts {
+    width: 100%;
+    height: 100%;
+    left: 0;
+  }
+}
