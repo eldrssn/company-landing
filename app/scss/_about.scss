@@ -1,5 +1,6 @@
 .about__section {
   height: 100vh;
+  max-height: 1080px;
   background-color: $gray;
   display: flex;
   flex-direction: column;
@@ -14,6 +15,7 @@
   padding-left: 18px;
   padding-right: 18px;
   flex-grow: 0;
+  
 }
 
 .about_header {
@@ -36,7 +38,7 @@
 .map {
   flex-grow: 1;
   position: relative;
-
+  max-height: 500px;
 }
 
 .map__contacts {
