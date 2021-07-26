@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .advantages__wrap {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .advantages__content {
+    width: 100%;
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+  .advantages__img {
+    padding-top: 18px;
+  }
+}

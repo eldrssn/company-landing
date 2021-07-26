@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Semi'), local('Jost-Semi'), url('Jost*semi.woff2') format('woff2'), url('Jost*semi.woff') format('woff'), url('Jost*semi.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Hairline Italic'), local('Jost-HairlineItalic'), url('Jost*hairlineitalic.woff2') format('woff2'), url('Jost*hairlineitalic.woff') format('woff'), url('Jost*hairlineitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Medium'), local('Jost-Medium'), url('Jost*medium.woff2') format('woff2'), url('Jost*medium.woff') format('woff'), url('Jost*medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Heavy'), local('Jost-Heavy'), url('Jost*heavy.woff2') format('woff2'), url('Jost*heavy.woff') format('woff'), url('Jost*heavy.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Semi Italic'), local('Jost-SemiItalic'), url('Jost*semiitalic.woff2') format('woff2'), url('Jost*semiitalic.woff') format('woff'), url('Jost*semiitalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Thin Italic'), local('Jost-ThinItalic'), url('Jost*thinitalic.woff2') format('woff2'), url('Jost*thinitalic.woff') format('woff'), url('Jost*thinitalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Bold'), local('Jost-Bold'), url('Jost*bold.woff2') format('woff2'), url('Jost*bold.woff') format('woff'), url('Jost*bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Book'), local('Jost-Book'), url('Jost*book.woff2') format('woff2'), url('Jost*book.woff') format('woff'), url('Jost*book.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Thin'), local('Jost-Thin'), url('Jost*thin.woff2') format('woff2'), url('Jost*thin.woff') format('woff'), url('Jost*thin.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Light Italic'), local('Jost-LightItalic'), url('Jost*lightitalic.woff2') format('woff2'), url('Jost*lightitalic.woff') format('woff'), url('Jost*lightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Black Italic'), local('Jost-BlackItalic'), url('Jost*blackitalic.woff2') format('woff2'), url('Jost*blackitalic.woff') format('woff'), url('Jost*blackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Book Italic'), local('Jost-BookItalic'), url('Jost*bookitalic.woff2') format('woff2'), url('Jost*bookitalic.woff') format('woff'), url('Jost*bookitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Heavy Italic'), local('Jost-HeavyItalic'), url('Jost*heavyitalic.woff2') format('woff2'), url('Jost*heavyitalic.woff') format('woff'), url('Jost*heavyitalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Bold Italic'), local('Jost-BoldItalic'), url('Jost*bolditalic.woff2') format('woff2'), url('Jost*bolditalic.woff') format('woff'), url('Jost*bolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Hairline'), local('Jost-Hairline'), url('Jost*hairline.woff2') format('woff2'), url('Jost*hairline.woff') format('woff'), url('Jost*hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Black'), local('Jost-Black'), url('Jost*black.woff2') format('woff2'), url('Jost*black.woff') format('woff'), url('Jost*black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Medium Italic'), local('Jost-MediumItalic'), url('Jost*mediumitalic.woff2') format('woff2'), url('Jost*mediumitalic.woff') format('woff'), url('Jost*mediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Jost*';
+    src: local('Jost* Light'), local('Jost-Light'), url('Jost*light.woff2') format('woff2'), url('Jost*light.woff') format('woff'), url('Jost*light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}

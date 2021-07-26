@@ -1,0 +1,63 @@
+.advantages__wrap {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 60px 0;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.advantages__content {
+  width: 50%;
+}
+
+.advantages__header {
+  font-family: $font-header;
+  font-size: 27px;
+  margin-bottom: 30px;
+}
+
+.advantages__text {
+  font-family: $font-text;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.advantages__table {
+  max-width: 1140px;
+  margin: auto;
+  margin-bottom: 75px;
+
+  tr:nth-child(odd) {
+    background-color: $gray;
+  }
+
+  th {
+    font-family: $font-header;
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  td {
+    font-family: $font-text;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  th, td {
+    padding: 10px;
+    vertical-align: top;
+  }
+
+  td:nth-child(2) {
+    max-width: 400px;
+  }
+
+  a {
+    color: $blue;
+  }
+}
+
+.advantages__img {
+  width: 50%;
+  height: auto;
+}
